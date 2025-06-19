@@ -5,6 +5,7 @@ To run the Submission Reminder application, open your terminal and navigate to t
 This is a Bash-based submission reminder system that helps manage and remind students about upcoming submission deadlines. The project is structured in folders for modularity, with scripts handling logic, configuration, and data.
 
 ##  Project Structure
+```plaintext
 
 submission_reminder_app_T-Sylvie/
 ├── app/
@@ -16,7 +17,7 @@ submission_reminder_app_T-Sylvie/
 ├── config/
 │ └── config.env
 └── startup.sh
-
+```
 
 ##  Description
 
