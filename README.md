@@ -1,0 +1,3 @@
+HERE ARE THE STEPS TO BE ABLE TO RUN THIS PROGRAM CORRECTLY:
+
+To run the Submission Reminder application, open your terminal and navigate to the submission_reminder_emmanuel directory. Once inside the directory, start the program by running the startup.sh script using the command ./startup.sh. This script will initialize the application by loading environment variables from config/config.env and calling the main logic located in app/reminder.sh. The reminder script may use helper functions defined in modules/functions.sh, and it reads submission data from assets/submissions.txt to process reminders accordingly.
