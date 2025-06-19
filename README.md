@@ -33,8 +33,11 @@ submission_reminder_app_T-Sylvie/
    cd submission_reminder_app_T-Sylvie
 Then run each of these commands and follow the instructions:
 
-Run the environment creation script:
+**Run the environment creation script:
+```bash
 ./create_environment.sh
+```
 
 Run the copilot script to check for assignment submissions:
+```bash
 ./copilot_shell_script.sh
